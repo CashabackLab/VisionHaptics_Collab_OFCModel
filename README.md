@@ -18,10 +18,12 @@ We modeled each participant controlling their hand as a separate optimal feedbac
 
 The description of the scripts are as follows:
 
-* Simulation notebooks: Used to run simulations, analyses and plotting. *'simulationcentre_exp1.py'* for Experiment 1 and *'simulationcenter_exp2.py'* for Experiment 2.
+* Simulation notebooks: Used to run simulations, analyses and plotting. *'simulationcentre_exp1.ipynb'* for Experiment 1 and *'simulationcenter_exp2.ipynb'* for Experiment 2.
 * Model scripts: consists of the model classes. *'models_exp1.py'* for Experiment 1 and *'models_exp2.py'* for Experiment 2.
 * Model parameters: defines parameters for the model. *'modelparams_exp1.py'* for Experiment 1 and *'modelparams_exp2.py'* for Experiment 2.
 * Plot parameters: defines parameters for the plots/figures. *'plot_parameters'* for Experiment 1 an Experiment 2.
+* Save Load script: used to save or load simulation data. *'saveload_workspace.py'*
+* Animation script: used to animate simulation trial. *'sim_animation.py'*
 
 ## Running Simulations
 
