@@ -1,6 +1,6 @@
 # Optimal Feedback Control Model for Sensorimotor Collaboration Between Humans
 
-<p align="justify"> We developed an optimal control model to predict the movement behaviors of humans in a collaborative reaching task. Here we briefly explain the experiments and the model. However, we have described the experiments and the model in detail in our manuscript titled <i> 'Visual Accuracy Dominates Over Haptic Speed for State Estimation of a Partner During Collaborative Sensorimotor Interactions' <i> </p>
+<p align="justify"> We developed an optimal control model to predict the movement behaviors of humans in a collaborative reaching task. Here we briefly explain the experiments and the model. However, we have described the experiments and the model in detail in our manuscript titled <i> 'Visual Accuracy Dominates Over Haptic Speed for State Estimation of a Partner During Collaborative Sensorimotor Interactions' </i> </p>
 
 [Manuscript Link](https://www.google.com)
 
